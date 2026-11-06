@@ -1,0 +1,9 @@
+name: astrbot_plugin_tenno_dispatch
+display_name: 天诺通讯
+desc: 查询星际战甲世界状态；周榜接口仍在验证中。
+version: 0.1.0
+author: CJwen
+repo: https://github.com/CJwens/astrbot-plugin-tenno-dispatch
+support_platforms:
+  - qq_official
+  - aiocqhttp
